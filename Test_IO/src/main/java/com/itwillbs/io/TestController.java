@@ -1,5 +1,8 @@
 package com.itwillbs.io;
 
-public class TestController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class TestController {
+	
 }
